@@ -1,7 +1,4 @@
 node_modules/
 dist/
 .cache/
-*.txt
-!test.txt
-test/
-/test
+
